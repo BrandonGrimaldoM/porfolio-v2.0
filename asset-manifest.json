@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5c41a2a8.chunk.css",
+    "main.js": "./static/js/main.64715594.chunk.js",
+    "main.js.map": "./static/js/main.64715594.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d4a412ea.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d4a412ea.js.map",
+    "static/css/2.7667ff90.chunk.css": "./static/css/2.7667ff90.chunk.css",
+    "static/js/2.2cfbfb97.chunk.js": "./static/js/2.2cfbfb97.chunk.js",
+    "static/js/2.2cfbfb97.chunk.js.map": "./static/js/2.2cfbfb97.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.7667ff90.chunk.css.map": "./static/css/2.7667ff90.chunk.css.map",
+    "static/css/main.5c41a2a8.chunk.css.map": "./static/css/main.5c41a2a8.chunk.css.map",
+    "static/js/2.2cfbfb97.chunk.js.LICENSE.txt": "./static/js/2.2cfbfb97.chunk.js.LICENSE.txt",
+    "static/media/style.css": "./static/media/ws.c48b8613.svg",
+    "static/media/CurriculumVitaeEnglish.cd3c2dd3.pdf": "./static/media/CurriculumVitaeEnglish.cd3c2dd3.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4a412ea.js",
+    "static/css/2.7667ff90.chunk.css",
+    "static/js/2.2cfbfb97.chunk.js",
+    "static/css/main.5c41a2a8.chunk.css",
+    "static/js/main.64715594.chunk.js"
+  ]
+}
